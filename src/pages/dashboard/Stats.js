@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useEffect } from 'react';
 import { StatsContainer, Loading, ChartsContainer } from '../../components';
 import { useDispatch, useSelector } from 'react-redux';
