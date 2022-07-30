@@ -41,5 +41,18 @@ The project is bulit using Reactjs and it works as a job finder app which helps 
  
  ## Screenshots :
  
+ <p align="left">Landing</p>
  <img src="./src/assets/images/1.png" alt="landing-page">
+ 
+ <p align="left">Login/Signup</p>
+ <img src="./src/assets/images/2.png" alt="login">
+ 
+ <p align="left">Dashboard</p>
+ <img src="./src/assets/images/3.png" alt="stats">
+ 
+ <p align="left">Jobs</p>
+ <img src="./src/assets/images/4.png" alt="jobs">
+ 
+ <p align="left">Add Jobs</p>
+ <img src="./src/assets/images/5.png" alt="add-jobs">
 
