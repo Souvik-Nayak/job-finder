@@ -4,14 +4,12 @@
 
 ## About The Project :
 
-The project is a job finder and creating platform.
+The project is bulit using Reactjs and it works as a job finder app which helps user to have CRUD operations for a job profile.
 
 ## Tech Stack :
 
 * [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
 * [Nextjs](https://nextjs.org//)
-* [HTML](https://www.w3schools.com/html/)
 * [Styled Components](https://styled-components.com/)
 
 
@@ -28,4 +26,20 @@ The project is a job finder and creating platform.
     ```sh
     yarn install
     ```
+ 
+* Launches the test runner in the interactive watch mode.
+
+    ```sh
+    yarn test
+    ```
+
+* Builds the app for production to the build folder and It correctly bundles React in production mode. Your app is ready to be deployed !
+
+    ```sh
+    yarn build
+    ```
+ 
+ ## Screenshots :
+ 
+ <img src="./src/assets/images/1.png" alt="landing-page">
 
