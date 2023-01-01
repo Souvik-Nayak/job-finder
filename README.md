@@ -4,7 +4,7 @@
 
 ## About The Project :
 
-The project is bulit using Reactjs and it works as a job finder app which helps user to have CRUD operations for a job profile.
+The project is bulit using Reactjs and NEXTjs and works as a job finder app which helps user to have CRUD operations for a job profile.
 
 ## Tech Stack :
 
